@@ -1,0 +1,13 @@
+//Iseng Aja
+#include <iostream>
+  //Deklarasi
+  float x;
+  char y;
+
+  int main() {
+    cout<<"Silahkan masukan nama = ", cin>>y;
+    cout<<"Silahkan masukan nilai = ", cin>>x;
+    cout<<y, " Memperoleh Nilai ", x;
+    
+  
+  }
