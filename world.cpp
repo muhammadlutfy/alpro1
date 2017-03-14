@@ -7,7 +7,6 @@ using namespace std;
 	//Definisi Fungsi
 		cout << "HELLO WORLD" <<endl;
 		cout << " I Will Save This World, Aamiin ^^";
-		return 0;
-		
-	getch();	
+		cin.get();
+		return 0;	
 	}
